@@ -2,8 +2,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #faf8ef;
-  color: #776e65;
+  background: #04D996;
+  color: #6800D7;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -392,25 +392,33 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
+    color: #00FF73;
     background: #eee4da;
+    background-image: url("http://picasion.com/resize78/181acbf1f595c5ca5c6c1f2b40deafef.gif");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
+    color: #00FF73;
     background: #ede0c8;
+    background-image: url("https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10808324_10205127789139070_834181126_n.jpg?oh=381df1abcfb231f51275ac787f947cc7&oe=54636474&__gda__=1415795392_d6e0223b69a3c6e0ed522d9a34003cb7");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+    color: #00FF73;
+    background: #f2b179;
+    background-image: url("http://picasion.com/resize78/ae9d06c4f0332af5828662f821717be8.gif"); }
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    color: #00FF73;
+    background: #f59563;
+    background-image: url("http://picasion.com/resize78/5cdaf140e327dd5b67191bafcec34fb3.gif") }
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    color: #00FF73;
+    background: #f67c5f;
+    background-image: url("http://picasion.com/resize78/0e2c46e46bdd7219d866dcf84341d38f.gif") }
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    color: #00FF73;
+    background: #f65e3b; 
+    background-image: url("http://picasion.com/resize78/4bd2efaa7f70535de6b30475ebebd3b5.gif")}
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
+    color: #00FF73;
     background: #edcf72;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
